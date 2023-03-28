@@ -1,0 +1,17 @@
+./splendor/Controleur.java
+
+./splendor/metier/Carte.java
+./splendor/metier/CarteDos.java
+./splendor/metier/Jeton.java
+./splendor/metier/Joueur.java
+./splendor/metier/Noble.java
+./splendor/metier/Plateau.java
+./splendor/metier/CreerCartes.java
+
+./splendor/ihm/FramePlateau.java
+./splendor/ihm/PanelNobles.java
+./splendor/ihm/PanelJetons.java
+./splendor/ihm/PanelCartesDos.java
+./splendor/ihm/PanelCartes.java
+./splendor/ihm/FrameJoueur.java
+./splendor/ihm/PanelCartesJoueur.java
