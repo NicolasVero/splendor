@@ -1,6 +1,6 @@
 # Splendor
 
-This submission is based on one of the three end-of-year subjects that had been offered in the Computer Science DUT.  
+This submission is based on one of the three final-year subjects offered in Computer Science studies.
 I set myself the challenge of redoing this project on my own in a given time.
 
 ## Rules 
